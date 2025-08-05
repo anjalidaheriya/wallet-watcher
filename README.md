@@ -16,7 +16,7 @@ A simple and fast Expense Tracker web app built with **Vite + React** to help yo
 
 - ⚛️ React (via Vite)
 - 🧰 Vite (fast build tool)
-- 💅 CSS / TailwindCSS (optional)
+- 💅 CSS / TailwindCSS 
 - 🧠 useState, useReducer for state management
 - 🌐 LocalStorage API
 
